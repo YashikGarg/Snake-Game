@@ -1,6 +1,7 @@
 # 🐍 Snake-Game Using JavaScript And JQuery
-Snake JS is a one player simple 2D-game written purely in JavaScript And JQuery. It is playable in modern web browsers.
-## Demo ##
+Snake-Game is a one player simple 2D-game written purely in JavaScript And JQuery. It is playable in modern web browsers.Also it uses HTML elements to render the game instead of canvas.
+___
+## 🕹 Demo ##
 <b>Link -</b> [https://yashikgarg.github.io/Snake-Game/](https://yashikgarg.github.io/Snake-Game/)
 ___
 ## 🎥 Video
